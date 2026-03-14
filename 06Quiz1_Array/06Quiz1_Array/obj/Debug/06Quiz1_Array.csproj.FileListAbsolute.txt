@@ -1,0 +1,10 @@
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\06Quiz1_Array.csproj.AssemblyReference.cache
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\_06Quiz1_Array.Form1.resources
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\_06Quiz1_Array.Properties.Resources.resources
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\06Quiz1_Array.csproj.GenerateResource.cache
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\06Quiz1_Array.csproj.CoreCompileInputs.cache
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\bin\Debug\06Quiz1_Array.exe.config
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\bin\Debug\06Quiz1_Array.exe
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\bin\Debug\06Quiz1_Array.pdb
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\06Quiz1_Array.exe
+C:\Users\herrera.396824\source\repos\06Quiz1_Array\06Quiz1_Array\obj\Debug\06Quiz1_Array.pdb
