@@ -8,3 +8,6 @@ C:\Users\j0hnp\source\repos\StudentRegistrationApplication\StudentRegistrationAp
 C:\Users\j0hnp\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.pdb
 C:\Users\j0hnp\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.exe
 C:\Users\j0hnp\source\repos\StudentRegistrationApplication\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.pdb
+C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.csproj.AssemblyReference.cache
+C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.exe
+C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.pdb

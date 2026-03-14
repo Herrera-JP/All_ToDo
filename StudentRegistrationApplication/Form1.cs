@@ -38,6 +38,14 @@ namespace StudentRegistrationApplication
                 cb_year.Items.Add(year);
             }
             cb_year.Text = "-Year-";
+
+            String[] courses = { "BS Computer Science", "BS Information Technology", "BS Information Systems",
+                                 "BS Computer Engineering" };
+            foreach (String course in courses)
+            {
+                cb_Course.Items.Add(course);
+            }
+            cb_Course.Text = "-Select Course-";
         }
         
         private void button1_Click(object sender, EventArgs e)
@@ -45,6 +53,7 @@ namespace StudentRegistrationApplication
             if (string.IsNullOrWhiteSpace(b_lastName.Text) ||
                 string.IsNullOrWhiteSpace(b_firstName.Text) ||
                 string.IsNullOrWhiteSpace(b_middleName.Text) ||
+                cb_Course.SelectedIndex == -1 ||
                 cb_day.SelectedIndex == -1 ||
                 cb_month.SelectedIndex == -1 ||
                 cb_year.SelectedIndex == -1)
@@ -56,15 +65,20 @@ namespace StudentRegistrationApplication
             String lastName = (String)b_lastName.Text;
             String firstName = (String)b_firstName.Text;
             String middleName = (String)b_middleName.Text;
+            String course = cb_Course.SelectedItem?.ToString() ?? "N/A";
             String birthDate = $"{cb_month.SelectedItem} {cb_day.SelectedItem}, {cb_year.SelectedItem}";
             String gender = b_female.Checked ? "Female" : b_male.Checked ? "Male" : "N/A";
             String message = $"Student Name: {lastName}, {firstName} {middleName}\n" +
                              $"Gender: {gender}\n" +
-                             $"Birth Date: {birthDate}";
+                             $"Birth Date: {birthDate}\n" +
+                             $"Course: {course}\n"; 
 
             MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
+
+        
     }
     }
 
+    
