@@ -8,3 +8,13 @@ C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\o
 C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.Properties.Resources.resources
 C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication_latest.csproj.GenerateResource.cache
 C:\Users\herrera.396824\Downloads\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication_latest.csproj.CoreCompileInputs.cache
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication_latest.csproj.AssemblyReference.cache
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.exe
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.pdb
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe.config
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.exe
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\bin\Debug\StudentRegistrationApplication.pdb
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.frmStudentRegistration.resources
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication.Properties.Resources.resources
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication_latest.csproj.GenerateResource.cache
+C:\Users\herrera.396824\Downloads\All_ToDo-main\All_ToDo-main\StudentRegistrationApplication\obj\Debug\StudentRegistrationApplication_latest.csproj.CoreCompileInputs.cache

@@ -68,16 +68,58 @@ namespace StudentRegistrationApplication
             String course = cb_Course.SelectedItem?.ToString() ?? "N/A";
             String birthDate = $"{cb_month.SelectedItem} {cb_day.SelectedItem}, {cb_year.SelectedItem}";
             String gender = b_female.Checked ? "Female" : b_male.Checked ? "Male" : "N/A";
-            String message = $"Student Name: {lastName}, {firstName} {middleName}\n" +
-                             $"Gender: {gender}\n" +
-                             $"Birth Date: {birthDate}\n" +
-                             $"Course: {course}\n"; 
 
-            MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            Student(firstName,middleName,lastName,course,birthDate,gender);
+            Student(firstName, middleName, lastName, course);
+            Student(firstName,lastName,course);
+          
+        }
+        private void btnOpen_Click(object sender, EventArgs e)
+        {
+            
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                openFileDialog.Title = "Select an Image";
+                
+                openFileDialog.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.png; *.bmp)|*.jpg; *.jpeg; *.gif; *.png; *.bmp";
 
+                
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    
+                    pictureBox1.Image = Image.FromFile(openFileDialog.FileName);
+                }
+            }
         }
 
-        
+        public void Student(string firstName, string middleName, string lastName, string course, string birthDate, string gender )
+        {
+            String message = $"Student Name: {firstName}, {middleName}, {lastName}\n" +
+                $"Gender: {gender}\n +" +
+                $"Date of birth: {birthDate}\n + " +
+                $"Program: {course}\n";
+
+            MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        public void Student(string firstName, string middleName, string lastName, string course)
+        {
+            String message = $"Student Name: {firstName}, {middleName}, {lastName}\n" +
+                $"Program: {course}\n";
+
+            MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        public void Student(string firstName,  string lastName, string course)
+        {
+            String message = $"Student Name: {firstName}, {lastName}\n" +        
+                $"Program: {course}\n";
+
+            MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+
+
+
+
     }
     }
 
