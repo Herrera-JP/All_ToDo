@@ -1,0 +1,10 @@
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\bin\Debug\Herrera_StudentGradeAnalyzer.exe.config
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\bin\Debug\Herrera_StudentGradeAnalyzer.exe
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\bin\Debug\Herrera_StudentGradeAnalyzer.pdb
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.studentgradefrm.resources
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.Properties.Resources.resources
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.exe
+C:\Users\j0hnp\source\repos\Herrera_StudentGradeAnalyzer\Herrera_StudentGradeAnalyzer\obj\Debug\Herrera_StudentGradeAnalyzer.pdb
