@@ -1,0 +1,10 @@
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.frmEmployeeDatabase.resources
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\herrera.396824\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
