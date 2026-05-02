@@ -12,7 +12,7 @@ namespace EmployeeApplication
 {
     public partial class frmEmployeeDatabase : Form
     {
-        // ✅ Declare table at class level so both methods share it
+       
         private DataTable table = new DataTable();
 
         public frmEmployeeDatabase()
@@ -23,14 +23,14 @@ namespace EmployeeApplication
         private void frmEmployeeDatabase_Load(object sender, EventArgs e)
         {
             table.Columns.Add("ID", typeof(long));
-            table.Columns.Add("First Name", typeof(string));  // ✅ Fixed typo "Firsr"
+            table.Columns.Add("First Name", typeof(string)); 
             table.Columns.Add("Last Name", typeof(string));
             table.Columns.Add("Position", typeof(string));
 
             EmployeeData.DataSource = table;
         }
 
-        private bool validateInput()  // ✅ Returns bool so we can stop execution
+        private bool validateInput()  
         {
             if (string.IsNullOrWhiteSpace(txtEmployee_ID.Text) ||
                 string.IsNullOrWhiteSpace(txt_firstName.Text) ||
@@ -54,7 +54,6 @@ namespace EmployeeApplication
 
         private void btn_submit_Click(object sender, EventArgs e)
         {
-            // ✅ Validate FIRST before doing anything
             if (!validateInput()) return;
 
             Employee employee = new Employee();
@@ -63,11 +62,9 @@ namespace EmployeeApplication
             employee.LastName = txt_lastName.Text;
             employee.Position = txt_position.Text;
 
-            // ✅ Adds to the shared table that the grid is bound to
             table.Rows.Add(employee.EmployeeNumber, employee.FirstName,
                            employee.LastName, employee.Position);
 
-            // ✅ Clear fields after successful submit
             txtEmployee_ID.Clear();
             txt_firstName.Clear();
             txt_lastName.Clear();
