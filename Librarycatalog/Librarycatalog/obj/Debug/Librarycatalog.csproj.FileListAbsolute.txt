@@ -1,0 +1,10 @@
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\bin\Debug\Librarycatalog.exe.config
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\bin\Debug\Librarycatalog.exe
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\bin\Debug\Librarycatalog.pdb
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.csproj.AssemblyReference.cache
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.Form1.resources
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.Properties.Resources.resources
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.csproj.GenerateResource.cache
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.csproj.CoreCompileInputs.cache
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.exe
+C:\Users\j0hnp\Downloads\Ilagan-master\Ilagan-master\Librarycatalog\Librarycatalog\obj\Debug\Librarycatalog.pdb
